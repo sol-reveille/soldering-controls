@@ -12,6 +12,8 @@ Using python with Tkinter: https://stackpython.medium.com/today-ive-made-a-reall
 
 Using C# with Window Forms: https://www.instructables.com/Simplest-Arduino-GUI-in-C/
 
+GUI slice????: https://github.com/ImpulseAdventure/GUIslice
+
 Sus app: https://devicedruid.com/how-it-works/
 
 Firmata protocol: https://docs.arduino.cc/hacking/software/FirmataLibrary
