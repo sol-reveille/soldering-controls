@@ -1,7 +1,7 @@
 # soldering-controls
 Controls for solar car soldering robot
 
-##Research links
+## Research links
 Using processing: https://www.hackster.io/hardikrathod/control-arduino-using-gui-arduino-processing-2c9c6c
 Using Ardulink: https://www.instructables.com/How-to-write-an-Ardulink-GUI-to-control-Arduino/
 Ardulink documentation: https://github.com/Ardulink/Ardulink-2
